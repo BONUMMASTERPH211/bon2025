@@ -18,7 +18,7 @@ import threading
 
 # 𝑝𝑙𝑒𝑎𝑠𝑒 𝑑𝑜𝑛𝑡 𝑚𝑜𝑑𝑖𝑓𝑦 𝑠𝑘𝑖𝑑
 
-bot_token = '8080295477:AAGXp6xfNrZZd7BFVhiZAaPlWYSFRmjGiHE'
+bot_token = '6687166596:AAFYxzo4AHkucSKZTASpVS1219kVQrkSp3M'
 
 bot = telebot.TeleBot(bot_token)
 
