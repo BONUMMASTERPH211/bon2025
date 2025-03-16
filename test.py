@@ -24,9 +24,9 @@ bot = telebot.TeleBot(bot_token)
 
 allowed_group_id = -1002357079779
 #dont modify coded by infra
-allowed_users = [7003038336]
+allowed_users = [6467994085]
 processes = []
-ADMIN_ID = 7003038336
+ADMIN_ID = 6467994085
 proxy_update_count = 0
 last_proxy_update_time = time.time()
 key_dict = {}
